@@ -1,0 +1,1 @@
+# smartdrawing.kapsel
